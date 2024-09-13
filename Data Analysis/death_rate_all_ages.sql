@@ -27,4 +27,4 @@ ON
   AND total_death.year = total_accident.year
 ORDER BY 
   total_death.age_group, 
-total_death.year;
+  total_death.year;
